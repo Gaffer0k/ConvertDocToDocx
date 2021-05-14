@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Projects\\C++\\WordConverter/compression (6).doc\" \"D:\\Projects\\C++\\WordConverter/TestFile.Source.doc\" \"D:\\Projects\\C++\\WordConverter/Nmap_0.6.pdf\""
+    }
+  }
+}
